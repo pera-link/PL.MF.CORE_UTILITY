@@ -47,6 +47,6 @@ To add a new component or utility:
 3. **Import in Another Microfrontend**:
     - Import the component or utility in another microfrontend by referencing `@core-utility`. For example:
       ```javascript
-      import { YourComponent } from '@core-utility';
+      import { YourComponent } from '@peralink/core-utility';
       ```
 
