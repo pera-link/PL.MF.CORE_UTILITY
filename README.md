@@ -45,7 +45,7 @@ To add a new component or utility:
     - Export it from the `peralink_core_utility.tsx` file to make it available for use.
 
 3. **Import in Another Microfrontend**:
-    - Import the component or utility in another microfrontend by referencing `@core-utility`. For example:
+    - Import the component or utility in another microfrontend by referencing `core-utility`. For example:
       ```javascript
       import { YourComponent } from '@peralink/core-utility';
       ```
