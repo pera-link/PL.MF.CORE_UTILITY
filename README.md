@@ -1,4 +1,4 @@
-# Documentation for the Microfrontend Repository
+# PL.MF.CORE_UTILITY
 
 ## Overview
 This repository serves as a microfrontend that consolidates and provides access to all public components and shared functionalities. It is designed to promote reusability and consistency across multiple applications by centralizing commonly used UI components and utility functions.
